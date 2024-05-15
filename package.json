@@ -1,0 +1,14 @@
+{
+    "name": "note-taker",
+    "version": "1.0.0",
+    "description": "",
+    "main": "server.js",
+    "scripts": {
+      "test": "application that take notes, saves them and can also be deleted, this uses both frontend and backend"
+    },
+    "author": "Daisy",
+    "license": "ISC",
+    "dependencies": {
+      "express": "^4.16.4"
+    }
+  }

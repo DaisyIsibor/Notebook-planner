@@ -1,0 +1,12 @@
+[
+    {
+    "id": 1,
+    "title": "Meeting Agenda",
+    "text": "Agenda Items:\n1. Review project timeline\n2. Discuss budget allocation\n3. Assign action items"
+    },
+    {
+    "id": 2,
+    "title": "Grocery List",
+    "text": "Items to Buy:\n- Milk\n- Eggs\n- Bread\n- Apples\n- Chicken\n- Pasta"
+    }
+]
