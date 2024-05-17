@@ -15,10 +15,9 @@
 - [License](#license)
 
 
-
 ## Description
 
-
+Notebook Planner is a user-friendly note-taking application built on Express.js, allowing users to easily create, manage, and access their notes. With a clean interface and intuitive design, users can write, save, edit, and delete notes seamlessly. Whether you're organizing tasks or jotting down ideas, Notebook Planner simplifies the process, ensuring efficient note management and boosting productivity.
 
 ## Your Task
 
@@ -113,6 +112,10 @@ To test Notebook Planner using Postman, follow these steps:
 3. Review the responses from Postman to ensure they match the expected behavior of the application.
 
 4. You can also check the database or JSON file to verify that the changes made by the requests are reflected correctly.
+
+![alt text](<input page.png>)
+![alt text](<saved to list.png>)
+![alt text](Edit-a-list.png)
 
 ## Questions
 
