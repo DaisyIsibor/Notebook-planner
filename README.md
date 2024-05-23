@@ -2,6 +2,9 @@
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-purple.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
+## Deployed link 
+ https://notebook-planner-d7314db2749d.herokuapp.com/
+
 
 ## Table of Contents
 - [Description](#description)
